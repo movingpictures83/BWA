@@ -1,0 +1,2 @@
+Prefix plugins/BWA/example
+Plugin BWA inputfile input.fasta outputfile input.fasta
